@@ -1,9 +1,9 @@
 const BLOG = {
-  title: "まいにちめもめも",
+  title: "正法眼蔵私考",
   author: "Naoto Imamachi",
   email: "naoto.imamachi@gmail.com",
   link: "https://nobelium.vercel.app",
-  description: "毎日の学び、ぼやき、何でもメモる",
+  description: "正法眼藏について、私なりの解釈をまとめたもの",
   lang: "ja-JP", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: "auto", // ['light', 'dark', 'auto'],
   font: "sans-serif", // ['sans-serif', 'serif']
